@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ScreenshotManager
   m_EditorClassIdentifier: Instant Screenshot.dll::SaadKhawaja.InstantScreenshot.ScreenshotManager
   scale: 1
-  width: 1635
-  height: 555
+  width: 3840
+  height: 2160
   myCamera0: {fileID: 0}
   isTransparent: 0
   title: Instant Screenshot
